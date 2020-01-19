@@ -52,5 +52,5 @@
 <td>Movies between two dates.</td>
 </tr>
 </tbody>
-</table>.js-MongoDB-MovieAPI
+</table>
 
