@@ -15,11 +15,11 @@ const DirectorSchema = new Schema({
     bio: {
         type: String,
         maxlength: 1000,
-        minlength:60
+        minlength:5
     },
     createdAt: {
         type: Date,
-        default: Date.now()
+        default: Date.now
     }
 });
 

@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af5caa2d-a6d0-4a2a-a0b1-d30ae0e1f2ea" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Director.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Director.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/api/movie.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/api/movie.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,26 +17,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Node_js_MongoDB_MovieAPI$_api_movies_tests.dat" NAME="/api/movies tests Coverage Results" MODIFIED="1579704502059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Node_js_MongoDB_MovieAPI$_api_movies_test_GET_movies.dat" NAME="/api/movies test.GET movies Coverage Results" MODIFIED="1579651430424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Node_js_MongoDB_MovieAPI$_api_movies_test__1_.dat" NAME="/api/movies test (1) Coverage Results" MODIFIED="1579651698734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Node_js_MongoDB_MovieAPI$_api_movies_test.dat" NAME="/api/movies test Coverage Results" MODIFIED="1579650479230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="movie.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="-104">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie.test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
+      <file leaf-file-name="director.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/api/director.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state>
+              <caret selection-end-line="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Director.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Director.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -45,17 +63,35 @@
       <file leaf-file-name="Index.test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Index.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="156">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+            <state relative-caret-position="806">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="director.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/director.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1385">
+              <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/movie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -90,7 +126,6 @@
         <option value="$PROJECT_DIR$/routes/director.js" />
         <option value="$PROJECT_DIR$/routes/movie.js" />
         <option value="$PROJECT_DIR$/models/Movie.js" />
-        <option value="$PROJECT_DIR$/models/Director.js" />
         <option value="$PROJECT_DIR$/models/Users.js" />
         <option value="$PROJECT_DIR$/models/User.js" />
         <option value="$PROJECT_DIR$/package-lock.json" />
@@ -106,6 +141,8 @@
         <option value="$PROJECT_DIR$/test/Index.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/test/api/movie.test.js" />
+        <option value="$PROJECT_DIR$/models/Director.js" />
+        <option value="$PROJECT_DIR$/test/api/director.test.js" />
       </list>
     </option>
   </component>
@@ -140,13 +177,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Node.js-MongoDB-MovieAPI" type="b2602c69:ProjectViewProjectNode" />
               <item name="Node.js-MongoDB-MovieAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node.js-MongoDB-MovieAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node.js-MongoDB-MovieAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Node.js-MongoDB-MovieAPI" type="b2602c69:ProjectViewProjectNode" />
@@ -168,6 +209,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha./api/movies tests.GET movies">
+  <component name="RunManager" selected="Mocha./api/movies tests">
     <configuration name="GET movies" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -215,20 +257,6 @@
       <test-file>$PROJECT_DIR$/test/api/movie.test.js</test-file>
       <test-names>
         <name value="GET movies" />
-      </test-names>
-    </configuration>
-    <configuration name="Node Server.(GET /) returns the homepage" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/test/Index.test.js</test-file>
-      <test-names>
-        <name value="Node Server" />
-        <name value="(GET /) returns the homepage" />
       </test-names>
     </configuration>
     <configuration name="/api/movies tests" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
@@ -258,6 +286,16 @@
         <name value="GET movies" />
       </test-names>
     </configuration>
+    <configuration name="test\Index.test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/Index.test.js</test-file>
+    </configuration>
     <configuration name="test\api\movie.test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -270,18 +308,18 @@
     </configuration>
     <list>
       <item itemvalue="Mocha./api/movies tests" />
-      <item itemvalue="Mocha.Node Server.(GET /) returns the homepage" />
       <item itemvalue="Mocha./api/movies tests.GET movies" />
       <item itemvalue="Mocha.test\api\movie.test.js" />
       <item itemvalue="Mocha.GET movies" />
+      <item itemvalue="Mocha.test\Index.test.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Mocha./api/movies tests.GET movies" />
         <item itemvalue="Mocha./api/movies tests" />
+        <item itemvalue="Mocha.test\Index.test.js" />
+        <item itemvalue="Mocha./api/movies tests.GET movies" />
         <item itemvalue="Mocha.test\api\movie.test.js" />
         <item itemvalue="Mocha.GET movies" />
-        <item itemvalue="Mocha.Node Server.(GET /) returns the homepage" />
       </list>
     </recent_temporary>
   </component>
@@ -304,23 +342,13 @@
       <workItem from="1579642265714" duration="2922000" />
       <workItem from="1579645545572" duration="4258000" />
       <workItem from="1579649819936" duration="770000" />
-      <workItem from="1579650661999" duration="2856000" />
+      <workItem from="1579650661999" duration="4026000" />
+      <workItem from="1579703192844" duration="2894000" />
+      <workItem from="1579706110452" duration="680000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_api_movies_tests - 2020.01.22 at 03h 27m 09s.xml">
-      <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="_api_movies_tests_GET_movies - 2020.01.22 at 03h 28m 02s.xml">
-      <configuration name="/api/movies tests.GET movies" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="_api_movies_tests - 2020.01.22 at 03h 28m 15s.xml">
-      <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="_api_movies_tests - 2020.01.22 at 03h 28m 24s.xml">
-      <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="_api_movies_tests - 2020.01.22 at 03h 29m 25s.xml">
       <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -339,22 +367,34 @@
     <history-entry file="_api_movies_tests - 2020.01.22 at 03h 37m 39s.xml">
       <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="_api_movies_tests_GET_movies - 2020.01.22 at 03h 39m 17s.xml">
+      <configuration name="/api/movies tests.GET movies" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_Index_test_js - 2020.01.22 at 03h 44m 52s.xml">
+      <configuration name="test\Index.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_api_movies_tests - 2020.01.22 at 17h 44m 09s.xml">
+      <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="_api_movies_tests - 2020.01.22 at 17h 48m 25s.xml">
+      <configuration name="/api/movies tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25393000" />
+    <option name="totallyTimeSpent" value="30137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49909583" visible="true" weight="0.24968314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49909583" visible="true" weight="0.2008872" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32918397" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20470263" />
       <window_info id="Structure" order="1" sideWeight="0.50090414" side_tool="true" weight="0.24968314" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2351314" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2351314" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,13 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/director.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middleware/verify-token.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -623,20 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/Director.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/movie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17030">
@@ -673,20 +692,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test2/Index.test.js" />
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/director.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -694,13 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/asdas.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/asdas.test.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -708,24 +707,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/Index.test.js">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="806">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/movie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/director.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1385">
+          <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="553">
           <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Index.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="-104">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Director.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/api/director.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="111" />
         </state>
       </provider>
     </entry>
