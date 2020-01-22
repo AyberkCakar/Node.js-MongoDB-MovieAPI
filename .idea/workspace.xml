@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af5caa2d-a6d0-4a2a-a0b1-d30ae0e1f2ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Director.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Director.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/api/movie.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/api/movie.test.js" afterDir="false" />
-    </list>
+    <list default="true" id="af5caa2d-a6d0-4a2a-a0b1-d30ae0e1f2ea" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,8 +32,8 @@
       <file leaf-file-name="director.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/api/director.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="111" />
+            <state relative-caret-position="435">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -344,7 +340,7 @@
       <workItem from="1579649819936" duration="770000" />
       <workItem from="1579650661999" duration="4026000" />
       <workItem from="1579703192844" duration="2894000" />
-      <workItem from="1579706110452" duration="680000" />
+      <workItem from="1579706110452" duration="796000" />
     </task>
     <servers />
   </component>
@@ -381,7 +377,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30137000" />
+    <option name="totallyTimeSpent" value="30253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -742,13 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/Director.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -756,10 +745,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/api/movie.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/api/director.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="111" />
+        <state relative-caret-position="435">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>
